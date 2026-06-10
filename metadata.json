@@ -1,0 +1,6 @@
+{
+  "name": "Royal Fitness",
+  "description": "Premium fitness gym located in Mirzapur, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
